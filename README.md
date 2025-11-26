@@ -37,7 +37,7 @@ This tool requires enabling Macros in PowerPoint. Follow these steps:
 ### Step 2: Insert the VBA Code
 1.  Press `Alt` + `F11` to open the VBA Editor.
 2.  Go to **Insert** > **Module** in the top menu.
-3.  Copy the code from `script.vba` in this repository and paste it into the module window.
+3.  Copy the code from `caldesPogressBar.vba` in this repository and paste it into the module window.
 
 ### Step 3: Run the Macro
 1.  Press `Alt` + `F8` in PowerPoint.
